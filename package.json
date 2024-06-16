@@ -1,0 +1,22 @@
+{
+  "name": "abdul-rehman-countdown-timer",
+  "version": "1.0.0",
+  "main": "Countdown_timer.js",
+  "type": "module",
+  "bin": "Countdown_timer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "  ABDUL  REHMAN  ",
+  "license": "ISC",
+  "description": "ASSIGNMENT  FROM  GOVERNER  HOUSE  ` COUNTDOWN  TIMER ` ",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.2"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.23"
+  }
+}
